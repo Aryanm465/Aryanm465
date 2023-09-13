@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aryanm465
-- 👀 I’m interested in open source and interacting and learning new skills
-- 🌱 I’m currently learning DSA and data science 
-- 💞️ I’m looking to collaborate on open source project(first learning and then applying)
+- 👀 My interest lies in interacting and learning new skills
+
 
 
 
